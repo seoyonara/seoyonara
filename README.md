@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=#D0E3FF&height=100&section=header&text=Seoyeon's%20GitHub&fontSize=25" />
+<div align= "center">
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:334EAC,100:D0E3FF&height=150&fontColor=ffffff&fontSize=30&text=Seoyeon's%20GitHub)
 
+</div>
 <!--
 **seoyonara/seoyonara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
