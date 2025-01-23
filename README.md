@@ -24,6 +24,18 @@
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
 
+<br/><br/>
+
+<!--
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seoyonara&theme=github_dark&layout=compact" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=seoyonara&show_icons=true&theme=radical" />
+
+<br/><br/>
+--!>
+
 </div>
 <!--
 **seoyonara/seoyonara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
