@@ -6,6 +6,7 @@
 🍀 EWHA Content Convergence 🍀 <br/><br/> 
 🍀 게임제작동아리 KING 12th 🍀 <br/><br/>
 🍀 웹 개발 동아리 EFUB 4th 프론트엔드 인턴 개발자 🍀 <br/><br/>
+🍀 웹 개발 동아리 EFUB 5th 회장 🍀 <br/><br/>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
